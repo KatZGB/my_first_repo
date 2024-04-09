@@ -5,3 +5,5 @@ Added text
 Added text thru web-browser
 
 Added more text locally
+
+Added text to new branch <newbranch>
