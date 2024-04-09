@@ -8,4 +8,4 @@ Added more text locally
 
 Added text to new branch <newbranch>
 
-Resolving conflict - text in brouser
+Resolving conflict - new text in brouser
